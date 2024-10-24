@@ -1,2 +1,4 @@
 # Frontend
-frantend practice
+CSS
+HTML
+JAVASCRIPT
